@@ -16,7 +16,6 @@ spec:
       project: roboshop
   template:
     metadata:
-      namespace: roboshop
       labels:
         app: cart
         tier: app
